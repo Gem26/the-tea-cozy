@@ -36,13 +36,14 @@ body {
 }
 
 .nav {
-    color: seashell;
+    /* color: seashell; */
     display: flex;
     /* margin-right: 10px; */
 }
 
 .nav a {
     margin: 10px;
+    color: seashell;
 }
 
 #mission {
